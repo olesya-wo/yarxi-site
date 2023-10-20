@@ -1,31 +1,31 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Сообщите о проблеме
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Опишите проблему**
+Четкое и краткое описание ошибки.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Как воспроизвести**
+Шаги для воспроизведения:
+1. Перейти на вкладку '....'
+2. Нажать на '....'
+3. Открыть статью '....'
+4. Видим ошибку
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Ожидаемое поведение**
+Чёткое и краткое описание того, как должно работать
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Скриншоты**
+Если возможно, приложите скриншоты проблемы
 
-**Please complete the following information:**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+**Пожалуйста, напишите также следующую информацию:**
+ - ОС: [например, Windows 10]
+ - Браузер [например, Сhrome]
 
-**Additional context**
-Add any other context about the problem here.
+**Дополнительная информация**
+Любая другая информация о проблеме
